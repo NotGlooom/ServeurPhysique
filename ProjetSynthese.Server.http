@@ -1,0 +1,6 @@
+@ProjetSynthese.Server_HostAddress = http://localhost:5094
+
+GET {{ProjetSynthese.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
